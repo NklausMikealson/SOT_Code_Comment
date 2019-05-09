@@ -30,7 +30,7 @@ CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz
 GPU: NVIDIA GTX1070
 
 - python 3.6
-- pytorch == 1.0.0 (This is my pytorch version, The original pytorch version is 0.4.1)
+- pytorch == 1.0.0 (This is my pytorch version, The original pytorch version is 0.3.1)
 - numpy
 - opencv
 
