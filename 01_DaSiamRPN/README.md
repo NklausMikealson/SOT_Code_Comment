@@ -42,6 +42,10 @@ The pretrained model can be downloaded from google drive: [SiamRPNBIG.model](htt
 Then, you should copy the pretrained model file `SiamRPNBIG.model` to the subfolder './code', so that the tracker can find and load the pretrained_model.
 
 
+
+:zap:  原文给出的三个模型均在Google Drive中，你也可以在百度网盘中下载 [[SiamRPN_Model](https://pan.baidu.com/s/1WY6_cdjR2_I_36LjfE7Rwg)] 提取码：me52
+
+
 ## Detailed steps to install the prerequisites
 
 - install pytorch, numpy, opencv following the instructions in the `run_install.sh`. Please do **not** use conda to install.
