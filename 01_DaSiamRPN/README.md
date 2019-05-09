@@ -26,11 +26,11 @@ Zheng Zhu<sup>\*</sup>, Qiang Wang<sup>\*</sup>, Bo Li<sup>\*</sup>, Wei Wu, Jun
 
 ## Prerequisites
 
-CPU: Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz
-GPU: NVIDIA GTX1060
+CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz
+GPU: NVIDIA GTX1070
 
-- python2.7
-- pytorch == 0.3.1
+- python 3.6
+- pytorch == 1.0.0 (This is my pytorch version, The original pytorch version is 0.4.1)
 - numpy
 - opencv
 
