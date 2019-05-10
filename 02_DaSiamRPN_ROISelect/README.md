@@ -2,23 +2,24 @@
 
 在这个库中，我们主要将原始的DaSiamRPN算法进行了简单的修改，使其能够更加易用。
 
+你可以在窗口中使用鼠标划出ROI区域，并增加了一个面向行人跟踪的新场景
+
 :high_brightness:**强烈推荐**：顶级会议单目标跟踪领域相关文献总结 [[github](https://github.com/foolwood/benchmark_results)]
 
 ## 机器配置
 
 - CPU：Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz
 - GPU：NVIDIA GTX1070
+- python 3.6
+- pytorch == 1.0.0
+- numpy
+- opencv
 
 库中每一个算法中均注明了python版本以及需要安装的附加包，你可以下面的代码安装需要安装的附加包
 
 ```
 pip install xxx
 ```
-
-* python 3.6
-* pytorch == 1.0.0
-* numpy
-* opencv
 
 ## 预训练模型下载
 
