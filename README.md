@@ -21,7 +21,9 @@ pip install xxx
 
    "Distractor-aware Siamese Networks for Visual Object Tracking." (ECCV 2018). [[paper](https://arxiv.org/pdf/1808.06048.pdf)] [[github](https://github.com/foolwood/DaSiamRPN)]
 
-   
+2. **DaSiamRPN_ROISelect**：基于DaSiamRPN算法进行了改进，修改了边界框初始设置步骤，并增加了新的跟踪场景数据，具体请见 [[github](https://github.com/NklausMikealson/SOT_Code_Comment/tree/master/02_DaSiamRPN_ROISelect)]
+
+
 
 
 
