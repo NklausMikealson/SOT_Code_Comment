@@ -61,6 +61,6 @@ for f, image_file in enumerate(image_files):
     # 显示跟踪结果
     cv2.imshow('SiamRPN', im)  
     # 减缓显示速度 
-    cv2.waitKey(30)
+    cv2.waitKey(1)
 
 print('Tracking Speed {:.1f}fps'.format((len(image_files)-1)/(toc/cv2.getTickFrequency())))
