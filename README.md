@@ -9,7 +9,7 @@
 - CPU：Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz
 - GPU：NVIDIA GTX1070
 
-库中每一个算法中均注明了python版本以及需要安装的附加包，你可以下面的代码安装需要安装的附加包
+库中每一个算法中均注明了python版本以及需要安装的附加包，你可以按照下面的代码安装需要安装的附加包
 
 ```
 pip install xxx
